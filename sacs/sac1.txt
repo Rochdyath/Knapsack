@@ -1,0 +1,6 @@
+15
+vert 4 12
+bleu 2 2
+gris 2 1
+orange 1 1
+jaune 10 4
