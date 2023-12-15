@@ -1,0 +1,7 @@
+Poids maximal
+Article1 Prix1 Poids1
+Article2 Prix2 Poids2
+.
+.
+.
+Articlen Prixn Poidsn
